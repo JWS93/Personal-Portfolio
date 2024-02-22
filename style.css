@@ -22,4 +22,12 @@
   max-height: 400px;
 }
 
+.square-aspectratio {
+  aspect-ratio: 1;
+  max-height: 22px;
+}
 
+.gray-bg {
+  background-color: rgb(240, 240, 240);
+  margin-top: -16px;
+}
