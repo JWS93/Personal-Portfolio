@@ -16,5 +16,8 @@
 }
 
 .landscape-aspectratio {
-  aspect-ratio: 1.5
+  aspect-ratio: 1.5;
+  background-size: cover;
+  background-position: center;
+  max-height: 400px;
 }
